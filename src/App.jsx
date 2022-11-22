@@ -21,7 +21,6 @@ function App() {
 
   return (
     <div style={backgroundObjct} className="App">
-      <h1>hla</h1>
       <QuoteBox
         randomQuote={randomQuote}
         randomColor={randomColor}
